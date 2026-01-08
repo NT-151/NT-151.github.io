@@ -1,4 +1,4 @@
-# Variational AutoEncoders
+## Variational AutoEncoders
 
 The paper Auto-Encoding Variational Bayes introduced the SGVB algorithm, a way to perform variational inference. It also produced Variational AutoEncoders, which is a popular way to perform variational inference with neural networks.
 
