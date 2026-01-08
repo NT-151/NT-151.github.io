@@ -419,10 +419,10 @@ I found the main differences were:
 
 - Loss function required reconstructed input as well as $\mu$ and $\sigma$
 
-Code can be found in demo.ipynb
+Results can be found in demo.ipynb!
 
 ---
 
-[1] https://arxiv.org/pdf/1312.6114
-[2] https://www.cs.cmu.edu/~epxing/Class/10708-15/notes/10708_scribe_lecture13.pdf
-[3] https://github.com/karpathy/micrograd
+[1]https://arxiv.org/pdf/1312.6114
+[2]https://www.cs.cmu.edu/~epxing/Class/10708-15/notes/10708_scribe_lecture13.pdf
+[3]https://github.com/karpathy/micrograd
